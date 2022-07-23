@@ -1,0 +1,2 @@
+Changed ns from namecheap, to cloudflare, to azure. Originally wanted to use cloudflare but I think it'd be best to use azure cdn for this.
+
