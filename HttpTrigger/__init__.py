@@ -3,6 +3,8 @@ import logging
 import azure.functions as func
 
 
+#https://cloudresumechallenge.azurewebsites.net/api/visits/count
+
 def main(req: func.HttpRequest) -> func.HttpResponse:
     logging.info('Python HTTP trigger function processed a request.')
 
