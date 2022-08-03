@@ -16,3 +16,4 @@ async function postData(url = '', data = {}) {
       console.log('sent');
     });
 });
+
